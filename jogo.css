@@ -1,0 +1,12 @@
+/* Estilos do CSS anterior */
+
+#feedback-area {
+    margin-top: 10px;
+    font-size: 1.2em;
+    color: green; /* Verde para certo, vermelho para errado */
+}
+
+#result-area {
+    display: none; /* Inicialmente escondido */
+    margin-top: 20px;
+}
